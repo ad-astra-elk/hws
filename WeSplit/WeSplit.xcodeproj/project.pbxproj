@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		7085FC222D260F3000948CCB /* PBXContainerItemProxy */ = {
+		70975BDD2D7E869200FDA688 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7085FC092D260F2E00948CCB /* Project object */;
+			containerPortal = 70975BC42D7E869100FDA688 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7085FC102D260F2E00948CCB;
+			remoteGlobalIDString = 70975BCB2D7E869100FDA688;
 			remoteInfo = WeSplit;
 		};
-		7085FC2C2D260F3000948CCB /* PBXContainerItemProxy */ = {
+		70975BE72D7E869200FDA688 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7085FC092D260F2E00948CCB /* Project object */;
+			containerPortal = 70975BC42D7E869100FDA688 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7085FC102D260F2E00948CCB;
+			remoteGlobalIDString = 70975BCB2D7E869100FDA688;
 			remoteInfo = WeSplit;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7085FC112D260F2E00948CCB /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		7085FC212D260F3000948CCB /* WeSplitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		7085FC2B2D260F3000948CCB /* WeSplitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		70975BCC2D7E869100FDA688 /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		70975BDC2D7E869200FDA688 /* WeSplitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		70975BE62D7E869200FDA688 /* WeSplitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7085FC132D260F2E00948CCB /* WeSplit */ = {
+		70975BCE2D7E869100FDA688 /* WeSplit */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WeSplit;
 			sourceTree = "<group>";
 		};
-		7085FC242D260F3000948CCB /* WeSplitTests */ = {
+		70975BDF2D7E869200FDA688 /* WeSplitTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WeSplitTests;
 			sourceTree = "<group>";
 		};
-		7085FC2E2D260F3000948CCB /* WeSplitUITests */ = {
+		70975BE92D7E869200FDA688 /* WeSplitUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = WeSplitUITests;
 			sourceTree = "<group>";
@@ -48,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7085FC0E2D260F2E00948CCB /* Frameworks */ = {
+		70975BC92D7E869100FDA688 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7085FC1E2D260F3000948CCB /* Frameworks */ = {
+		70975BD92D7E869200FDA688 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7085FC282D260F3000948CCB /* Frameworks */ = {
+		70975BE32D7E869200FDA688 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7085FC082D260F2E00948CCB = {
+		70975BC32D7E869100FDA688 = {
 			isa = PBXGroup;
 			children = (
-				7085FC132D260F2E00948CCB /* WeSplit */,
-				7085FC242D260F3000948CCB /* WeSplitTests */,
-				7085FC2E2D260F3000948CCB /* WeSplitUITests */,
-				7085FC122D260F2E00948CCB /* Products */,
+				70975BCE2D7E869100FDA688 /* WeSplit */,
+				70975BDF2D7E869200FDA688 /* WeSplitTests */,
+				70975BE92D7E869200FDA688 /* WeSplitUITests */,
+				70975BCD2D7E869100FDA688 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7085FC122D260F2E00948CCB /* Products */ = {
+		70975BCD2D7E869100FDA688 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7085FC112D260F2E00948CCB /* WeSplit.app */,
-				7085FC212D260F3000948CCB /* WeSplitTests.xctest */,
-				7085FC2B2D260F3000948CCB /* WeSplitUITests.xctest */,
+				70975BCC2D7E869100FDA688 /* WeSplit.app */,
+				70975BDC2D7E869200FDA688 /* WeSplitTests.xctest */,
+				70975BE62D7E869200FDA688 /* WeSplitUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7085FC102D260F2E00948CCB /* WeSplit */ = {
+		70975BCB2D7E869100FDA688 /* WeSplit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7085FC352D260F3000948CCB /* Build configuration list for PBXNativeTarget "WeSplit" */;
+			buildConfigurationList = 70975BF02D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplit" */;
 			buildPhases = (
-				7085FC0D2D260F2E00948CCB /* Sources */,
-				7085FC0E2D260F2E00948CCB /* Frameworks */,
-				7085FC0F2D260F2E00948CCB /* Resources */,
+				70975BC82D7E869100FDA688 /* Sources */,
+				70975BC92D7E869100FDA688 /* Frameworks */,
+				70975BCA2D7E869100FDA688 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7085FC132D260F2E00948CCB /* WeSplit */,
+				70975BCE2D7E869100FDA688 /* WeSplit */,
 			);
 			name = WeSplit;
 			packageProductDependencies = (
 			);
 			productName = WeSplit;
-			productReference = 7085FC112D260F2E00948CCB /* WeSplit.app */;
+			productReference = 70975BCC2D7E869100FDA688 /* WeSplit.app */;
 			productType = "com.apple.product-type.application";
 		};
-		7085FC202D260F3000948CCB /* WeSplitTests */ = {
+		70975BDB2D7E869200FDA688 /* WeSplitTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7085FC382D260F3000948CCB /* Build configuration list for PBXNativeTarget "WeSplitTests" */;
+			buildConfigurationList = 70975BF32D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitTests" */;
 			buildPhases = (
-				7085FC1D2D260F3000948CCB /* Sources */,
-				7085FC1E2D260F3000948CCB /* Frameworks */,
-				7085FC1F2D260F3000948CCB /* Resources */,
+				70975BD82D7E869200FDA688 /* Sources */,
+				70975BD92D7E869200FDA688 /* Frameworks */,
+				70975BDA2D7E869200FDA688 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7085FC232D260F3000948CCB /* PBXTargetDependency */,
+				70975BDE2D7E869200FDA688 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				7085FC242D260F3000948CCB /* WeSplitTests */,
+				70975BDF2D7E869200FDA688 /* WeSplitTests */,
 			);
 			name = WeSplitTests;
 			packageProductDependencies = (
 			);
 			productName = WeSplitTests;
-			productReference = 7085FC212D260F3000948CCB /* WeSplitTests.xctest */;
+			productReference = 70975BDC2D7E869200FDA688 /* WeSplitTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		7085FC2A2D260F3000948CCB /* WeSplitUITests */ = {
+		70975BE52D7E869200FDA688 /* WeSplitUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7085FC3B2D260F3000948CCB /* Build configuration list for PBXNativeTarget "WeSplitUITests" */;
+			buildConfigurationList = 70975BF62D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitUITests" */;
 			buildPhases = (
-				7085FC272D260F3000948CCB /* Sources */,
-				7085FC282D260F3000948CCB /* Frameworks */,
-				7085FC292D260F3000948CCB /* Resources */,
+				70975BE22D7E869200FDA688 /* Sources */,
+				70975BE32D7E869200FDA688 /* Frameworks */,
+				70975BE42D7E869200FDA688 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7085FC2D2D260F3000948CCB /* PBXTargetDependency */,
+				70975BE82D7E869200FDA688 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				7085FC2E2D260F3000948CCB /* WeSplitUITests */,
+				70975BE92D7E869200FDA688 /* WeSplitUITests */,
 			);
 			name = WeSplitUITests;
 			packageProductDependencies = (
 			);
 			productName = WeSplitUITests;
-			productReference = 7085FC2B2D260F3000948CCB /* WeSplitUITests.xctest */;
+			productReference = 70975BE62D7E869200FDA688 /* WeSplitUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7085FC092D260F2E00948CCB /* Project object */ = {
+		70975BC42D7E869100FDA688 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1610;
-				LastUpgradeCheck = 1610;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					7085FC102D260F2E00948CCB = {
-						CreatedOnToolsVersion = 16.1;
+					70975BCB2D7E869100FDA688 = {
+						CreatedOnToolsVersion = 16.2;
 					};
-					7085FC202D260F3000948CCB = {
-						CreatedOnToolsVersion = 16.1;
-						TestTargetID = 7085FC102D260F2E00948CCB;
+					70975BDB2D7E869200FDA688 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 70975BCB2D7E869100FDA688;
 					};
-					7085FC2A2D260F3000948CCB = {
-						CreatedOnToolsVersion = 16.1;
-						TestTargetID = 7085FC102D260F2E00948CCB;
+					70975BE52D7E869200FDA688 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 70975BCB2D7E869100FDA688;
 					};
 				};
 			};
-			buildConfigurationList = 7085FC0C2D260F2E00948CCB /* Build configuration list for PBXProject "WeSplit" */;
+			buildConfigurationList = 70975BC72D7E869100FDA688 /* Build configuration list for PBXProject "WeSplit" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 7085FC082D260F2E00948CCB;
+			mainGroup = 70975BC32D7E869100FDA688;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 7085FC122D260F2E00948CCB /* Products */;
+			productRefGroup = 70975BCD2D7E869100FDA688 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7085FC102D260F2E00948CCB /* WeSplit */,
-				7085FC202D260F3000948CCB /* WeSplitTests */,
-				7085FC2A2D260F3000948CCB /* WeSplitUITests */,
+				70975BCB2D7E869100FDA688 /* WeSplit */,
+				70975BDB2D7E869200FDA688 /* WeSplitTests */,
+				70975BE52D7E869200FDA688 /* WeSplitUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7085FC0F2D260F2E00948CCB /* Resources */ = {
+		70975BCA2D7E869100FDA688 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7085FC1F2D260F3000948CCB /* Resources */ = {
+		70975BDA2D7E869200FDA688 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7085FC292D260F3000948CCB /* Resources */ = {
+		70975BE42D7E869200FDA688 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7085FC0D2D260F2E00948CCB /* Sources */ = {
+		70975BC82D7E869100FDA688 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7085FC1D2D260F3000948CCB /* Sources */ = {
+		70975BD82D7E869200FDA688 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7085FC272D260F3000948CCB /* Sources */ = {
+		70975BE22D7E869200FDA688 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7085FC232D260F3000948CCB /* PBXTargetDependency */ = {
+		70975BDE2D7E869200FDA688 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7085FC102D260F2E00948CCB /* WeSplit */;
-			targetProxy = 7085FC222D260F3000948CCB /* PBXContainerItemProxy */;
+			target = 70975BCB2D7E869100FDA688 /* WeSplit */;
+			targetProxy = 70975BDD2D7E869200FDA688 /* PBXContainerItemProxy */;
 		};
-		7085FC2D2D260F3000948CCB /* PBXTargetDependency */ = {
+		70975BE82D7E869200FDA688 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 7085FC102D260F2E00948CCB /* WeSplit */;
-			targetProxy = 7085FC2C2D260F3000948CCB /* PBXContainerItemProxy */;
+			target = 70975BCB2D7E869100FDA688 /* WeSplit */;
+			targetProxy = 70975BE72D7E869200FDA688 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		7085FC332D260F3000948CCB /* Debug */ = {
+		70975BEE2D7E869200FDA688 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -321,7 +321,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		7085FC342D260F3000948CCB /* Release */ = {
+		70975BEF2D7E869200FDA688 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -378,7 +378,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		7085FC362D260F3000948CCB /* Debug */ = {
+		70975BF12D7E869200FDA688 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -417,7 +417,7 @@
 			};
 			name = Debug;
 		};
-		7085FC372D260F3000948CCB /* Release */ = {
+		70975BF22D7E869200FDA688 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -446,7 +446,7 @@
 			};
 			name = Release;
 		};
-		7085FC392D260F3000948CCB /* Debug */ = {
+		70975BF42D7E869200FDA688 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -454,7 +454,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -465,7 +465,7 @@
 			};
 			name = Debug;
 		};
-		7085FC3A2D260F3000948CCB /* Release */ = {
+		70975BF52D7E869200FDA688 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -473,7 +473,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -484,7 +484,7 @@
 			};
 			name = Release;
 		};
-		7085FC3C2D260F3000948CCB /* Debug */ = {
+		70975BF72D7E869200FDA688 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -501,7 +501,7 @@
 			};
 			name = Debug;
 		};
-		7085FC3D2D260F3000948CCB /* Release */ = {
+		70975BF82D7E869200FDA688 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -521,43 +521,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7085FC0C2D260F2E00948CCB /* Build configuration list for PBXProject "WeSplit" */ = {
+		70975BC72D7E869100FDA688 /* Build configuration list for PBXProject "WeSplit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7085FC332D260F3000948CCB /* Debug */,
-				7085FC342D260F3000948CCB /* Release */,
+				70975BEE2D7E869200FDA688 /* Debug */,
+				70975BEF2D7E869200FDA688 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7085FC352D260F3000948CCB /* Build configuration list for PBXNativeTarget "WeSplit" */ = {
+		70975BF02D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7085FC362D260F3000948CCB /* Debug */,
-				7085FC372D260F3000948CCB /* Release */,
+				70975BF12D7E869200FDA688 /* Debug */,
+				70975BF22D7E869200FDA688 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7085FC382D260F3000948CCB /* Build configuration list for PBXNativeTarget "WeSplitTests" */ = {
+		70975BF32D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7085FC392D260F3000948CCB /* Debug */,
-				7085FC3A2D260F3000948CCB /* Release */,
+				70975BF42D7E869200FDA688 /* Debug */,
+				70975BF52D7E869200FDA688 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7085FC3B2D260F3000948CCB /* Build configuration list for PBXNativeTarget "WeSplitUITests" */ = {
+		70975BF62D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7085FC3C2D260F3000948CCB /* Debug */,
-				7085FC3D2D260F3000948CCB /* Release */,
+				70975BF72D7E869200FDA688 /* Debug */,
+				70975BF82D7E869200FDA688 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7085FC092D260F2E00948CCB /* Project object */;
+	rootObject = 70975BC42D7E869100FDA688 /* Project object */;
 }

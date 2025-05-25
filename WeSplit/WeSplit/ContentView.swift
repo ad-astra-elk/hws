@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WeSplit
 //
-//  Created by Miguel Rodriguez on 1/1/25.
+//  Created by Miguel Rodriguez on 3/9/25.
 //
 
 import SwiftUI
