@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		70975BDD2D7E869200FDA688 /* PBXContainerItemProxy */ = {
+		704954FD2E18C21800620554 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 70975BC42D7E869100FDA688 /* Project object */;
+			containerPortal = 704954E72E18C21700620554 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 70975BCB2D7E869100FDA688;
-			remoteInfo = WeSplit;
+			remoteGlobalIDString = 704954EE2E18C21700620554;
+			remoteInfo = GuessTheFlag;
 		};
-		70975BE72D7E869200FDA688 /* PBXContainerItemProxy */ = {
+		704955072E18C21800620554 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 70975BC42D7E869100FDA688 /* Project object */;
+			containerPortal = 704954E72E18C21700620554 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 70975BCB2D7E869100FDA688;
-			remoteInfo = WeSplit;
+			remoteGlobalIDString = 704954EE2E18C21700620554;
+			remoteInfo = GuessTheFlag;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		70975BCC2D7E869100FDA688 /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		70975BDC2D7E869200FDA688 /* WeSplitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		70975BE62D7E869200FDA688 /* WeSplitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		704954EF2E18C21700620554 /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		704954FC2E18C21800620554 /* GuessTheFlagTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		704955062E18C21800620554 /* GuessTheFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		70975BCE2D7E869100FDA688 /* WeSplit */ = {
+		704954F12E18C21700620554 /* GuessTheFlag */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = WeSplit;
+			path = GuessTheFlag;
 			sourceTree = "<group>";
 		};
-		70975BDF2D7E869200FDA688 /* WeSplitTests */ = {
+		704954FF2E18C21800620554 /* GuessTheFlagTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = WeSplitTests;
+			path = GuessTheFlagTests;
 			sourceTree = "<group>";
 		};
-		70975BE92D7E869200FDA688 /* WeSplitUITests */ = {
+		704955092E18C21800620554 /* GuessTheFlagUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = WeSplitUITests;
+			path = GuessTheFlagUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		70975BC92D7E869100FDA688 /* Frameworks */ = {
+		704954EC2E18C21700620554 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70975BD92D7E869200FDA688 /* Frameworks */ = {
+		704954F92E18C21800620554 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70975BE32D7E869200FDA688 /* Frameworks */ = {
+		704955032E18C21800620554 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		70975BC32D7E869100FDA688 = {
+		704954E62E18C21700620554 = {
 			isa = PBXGroup;
 			children = (
-				70975BCE2D7E869100FDA688 /* WeSplit */,
-				70975BDF2D7E869200FDA688 /* WeSplitTests */,
-				70975BE92D7E869200FDA688 /* WeSplitUITests */,
-				70975BCD2D7E869100FDA688 /* Products */,
+				704954F12E18C21700620554 /* GuessTheFlag */,
+				704954FF2E18C21800620554 /* GuessTheFlagTests */,
+				704955092E18C21800620554 /* GuessTheFlagUITests */,
+				704954F02E18C21700620554 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		70975BCD2D7E869100FDA688 /* Products */ = {
+		704954F02E18C21700620554 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				70975BCC2D7E869100FDA688 /* WeSplit.app */,
-				70975BDC2D7E869200FDA688 /* WeSplitTests.xctest */,
-				70975BE62D7E869200FDA688 /* WeSplitUITests.xctest */,
+				704954EF2E18C21700620554 /* GuessTheFlag.app */,
+				704954FC2E18C21800620554 /* GuessTheFlagTests.xctest */,
+				704955062E18C21800620554 /* GuessTheFlagUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		70975BCB2D7E869100FDA688 /* WeSplit */ = {
+		704954EE2E18C21700620554 /* GuessTheFlag */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 70975BF02D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplit" */;
+			buildConfigurationList = 704955102E18C21800620554 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */;
 			buildPhases = (
-				70975BC82D7E869100FDA688 /* Sources */,
-				70975BC92D7E869100FDA688 /* Frameworks */,
-				70975BCA2D7E869100FDA688 /* Resources */,
+				704954EB2E18C21700620554 /* Sources */,
+				704954EC2E18C21700620554 /* Frameworks */,
+				704954ED2E18C21700620554 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				70975BCE2D7E869100FDA688 /* WeSplit */,
+				704954F12E18C21700620554 /* GuessTheFlag */,
 			);
-			name = WeSplit;
+			name = GuessTheFlag;
 			packageProductDependencies = (
 			);
-			productName = WeSplit;
-			productReference = 70975BCC2D7E869100FDA688 /* WeSplit.app */;
+			productName = GuessTheFlag;
+			productReference = 704954EF2E18C21700620554 /* GuessTheFlag.app */;
 			productType = "com.apple.product-type.application";
 		};
-		70975BDB2D7E869200FDA688 /* WeSplitTests */ = {
+		704954FB2E18C21800620554 /* GuessTheFlagTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 70975BF32D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitTests" */;
+			buildConfigurationList = 704955132E18C21800620554 /* Build configuration list for PBXNativeTarget "GuessTheFlagTests" */;
 			buildPhases = (
-				70975BD82D7E869200FDA688 /* Sources */,
-				70975BD92D7E869200FDA688 /* Frameworks */,
-				70975BDA2D7E869200FDA688 /* Resources */,
+				704954F82E18C21800620554 /* Sources */,
+				704954F92E18C21800620554 /* Frameworks */,
+				704954FA2E18C21800620554 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				70975BDE2D7E869200FDA688 /* PBXTargetDependency */,
+				704954FE2E18C21800620554 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				70975BDF2D7E869200FDA688 /* WeSplitTests */,
+				704954FF2E18C21800620554 /* GuessTheFlagTests */,
 			);
-			name = WeSplitTests;
+			name = GuessTheFlagTests;
 			packageProductDependencies = (
 			);
-			productName = WeSplitTests;
-			productReference = 70975BDC2D7E869200FDA688 /* WeSplitTests.xctest */;
+			productName = GuessTheFlagTests;
+			productReference = 704954FC2E18C21800620554 /* GuessTheFlagTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		70975BE52D7E869200FDA688 /* WeSplitUITests */ = {
+		704955052E18C21800620554 /* GuessTheFlagUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 70975BF62D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitUITests" */;
+			buildConfigurationList = 704955162E18C21800620554 /* Build configuration list for PBXNativeTarget "GuessTheFlagUITests" */;
 			buildPhases = (
-				70975BE22D7E869200FDA688 /* Sources */,
-				70975BE32D7E869200FDA688 /* Frameworks */,
-				70975BE42D7E869200FDA688 /* Resources */,
+				704955022E18C21800620554 /* Sources */,
+				704955032E18C21800620554 /* Frameworks */,
+				704955042E18C21800620554 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				70975BE82D7E869200FDA688 /* PBXTargetDependency */,
+				704955082E18C21800620554 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				70975BE92D7E869200FDA688 /* WeSplitUITests */,
+				704955092E18C21800620554 /* GuessTheFlagUITests */,
 			);
-			name = WeSplitUITests;
+			name = GuessTheFlagUITests;
 			packageProductDependencies = (
 			);
-			productName = WeSplitUITests;
-			productReference = 70975BE62D7E869200FDA688 /* WeSplitUITests.xctest */;
+			productName = GuessTheFlagUITests;
+			productReference = 704955062E18C21800620554 /* GuessTheFlagUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		70975BC42D7E869100FDA688 /* Project object */ = {
+		704954E72E18C21700620554 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1620;
-				LastUpgradeCheck = 1620;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					70975BCB2D7E869100FDA688 = {
-						CreatedOnToolsVersion = 16.2;
+					704954EE2E18C21700620554 = {
+						CreatedOnToolsVersion = 16.4;
 					};
-					70975BDB2D7E869200FDA688 = {
-						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 70975BCB2D7E869100FDA688;
+					704954FB2E18C21800620554 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 704954EE2E18C21700620554;
 					};
-					70975BE52D7E869200FDA688 = {
-						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 70975BCB2D7E869100FDA688;
+					704955052E18C21800620554 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 704954EE2E18C21700620554;
 					};
 				};
 			};
-			buildConfigurationList = 70975BC72D7E869100FDA688 /* Build configuration list for PBXProject "WeSplit" */;
+			buildConfigurationList = 704954EA2E18C21700620554 /* Build configuration list for PBXProject "GuessTheFlag" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 70975BC32D7E869100FDA688;
+			mainGroup = 704954E62E18C21700620554;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 70975BCD2D7E869100FDA688 /* Products */;
+			productRefGroup = 704954F02E18C21700620554 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				70975BCB2D7E869100FDA688 /* WeSplit */,
-				70975BDB2D7E869200FDA688 /* WeSplitTests */,
-				70975BE52D7E869200FDA688 /* WeSplitUITests */,
+				704954EE2E18C21700620554 /* GuessTheFlag */,
+				704954FB2E18C21800620554 /* GuessTheFlagTests */,
+				704955052E18C21800620554 /* GuessTheFlagUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		70975BCA2D7E869100FDA688 /* Resources */ = {
+		704954ED2E18C21700620554 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70975BDA2D7E869200FDA688 /* Resources */ = {
+		704954FA2E18C21800620554 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70975BE42D7E869200FDA688 /* Resources */ = {
+		704955042E18C21800620554 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		70975BC82D7E869100FDA688 /* Sources */ = {
+		704954EB2E18C21700620554 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70975BD82D7E869200FDA688 /* Sources */ = {
+		704954F82E18C21800620554 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70975BE22D7E869200FDA688 /* Sources */ = {
+		704955022E18C21800620554 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		70975BDE2D7E869200FDA688 /* PBXTargetDependency */ = {
+		704954FE2E18C21800620554 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 70975BCB2D7E869100FDA688 /* WeSplit */;
-			targetProxy = 70975BDD2D7E869200FDA688 /* PBXContainerItemProxy */;
+			target = 704954EE2E18C21700620554 /* GuessTheFlag */;
+			targetProxy = 704954FD2E18C21800620554 /* PBXContainerItemProxy */;
 		};
-		70975BE82D7E869200FDA688 /* PBXTargetDependency */ = {
+		704955082E18C21800620554 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 70975BCB2D7E869100FDA688 /* WeSplit */;
-			targetProxy = 70975BE72D7E869200FDA688 /* PBXContainerItemProxy */;
+			target = 704954EE2E18C21700620554 /* GuessTheFlag */;
+			targetProxy = 704955072E18C21800620554 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		70975BEE2D7E869200FDA688 /* Debug */ = {
+		7049550E2E18C21800620554 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -304,6 +304,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = G35XVMKAFR;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -321,7 +322,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -332,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		70975BEF2D7E869200FDA688 /* Release */ = {
+		7049550F2E18C21800620554 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -367,6 +368,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = G35XVMKAFR;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -378,7 +380,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -388,14 +390,13 @@
 			};
 			name = Release;
 		};
-		70975BF12D7E869200FDA688 /* Debug */ = {
+		704955112E18C21800620554 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"WeSplit/Preview Content\"";
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -404,13 +405,12 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.GuessTheFlag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -418,14 +418,13 @@
 			};
 			name = Debug;
 		};
-		70975BF22D7E869200FDA688 /* Release */ = {
+		704955122E18C21800620554 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"WeSplit/Preview Content\"";
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -434,13 +433,12 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplit;
+				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.GuessTheFlag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -448,7 +446,7 @@
 			};
 			name = Release;
 		};
-		70975BF42D7E869200FDA688 /* Debug */ = {
+		704955142E18C21800620554 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -456,18 +454,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.GuessTheFlagTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeSplit.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WeSplit";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GuessTheFlag.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GuessTheFlag";
 			};
 			name = Debug;
 		};
-		70975BF52D7E869200FDA688 /* Release */ = {
+		704955152E18C21800620554 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -475,18 +473,18 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.GuessTheFlagTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WeSplit.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WeSplit";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GuessTheFlag.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GuessTheFlag";
 			};
 			name = Release;
 		};
-		70975BF72D7E869200FDA688 /* Debug */ = {
+		704955172E18C21800620554 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -494,16 +492,16 @@
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplitUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.GuessTheFlagUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = WeSplit;
+				TEST_TARGET_NAME = GuessTheFlag;
 			};
 			name = Debug;
 		};
-		70975BF82D7E869200FDA688 /* Release */ = {
+		704955182E18C21800620554 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -511,55 +509,55 @@
 				DEVELOPMENT_TEAM = G35XVMKAFR;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.WeSplitUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.astralelk.GuessTheFlagUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = WeSplit;
+				TEST_TARGET_NAME = GuessTheFlag;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		70975BC72D7E869100FDA688 /* Build configuration list for PBXProject "WeSplit" */ = {
+		704954EA2E18C21700620554 /* Build configuration list for PBXProject "GuessTheFlag" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				70975BEE2D7E869200FDA688 /* Debug */,
-				70975BEF2D7E869200FDA688 /* Release */,
+				7049550E2E18C21800620554 /* Debug */,
+				7049550F2E18C21800620554 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		70975BF02D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplit" */ = {
+		704955102E18C21800620554 /* Build configuration list for PBXNativeTarget "GuessTheFlag" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				70975BF12D7E869200FDA688 /* Debug */,
-				70975BF22D7E869200FDA688 /* Release */,
+				704955112E18C21800620554 /* Debug */,
+				704955122E18C21800620554 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		70975BF32D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitTests" */ = {
+		704955132E18C21800620554 /* Build configuration list for PBXNativeTarget "GuessTheFlagTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				70975BF42D7E869200FDA688 /* Debug */,
-				70975BF52D7E869200FDA688 /* Release */,
+				704955142E18C21800620554 /* Debug */,
+				704955152E18C21800620554 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		70975BF62D7E869200FDA688 /* Build configuration list for PBXNativeTarget "WeSplitUITests" */ = {
+		704955162E18C21800620554 /* Build configuration list for PBXNativeTarget "GuessTheFlagUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				70975BF72D7E869200FDA688 /* Debug */,
-				70975BF82D7E869200FDA688 /* Release */,
+				704955172E18C21800620554 /* Debug */,
+				704955182E18C21800620554 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 70975BC42D7E869100FDA688 /* Project object */;
+	rootObject = 704954E72E18C21700620554 /* Project object */;
 }
