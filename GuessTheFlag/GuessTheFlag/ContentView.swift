@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     @State private var countries = ["Estonia", "France", "Germany", "Ireland", "Italy", "Nigeria",
-                                    "Poland", "Spain", "UK", "Ukraine", "US"].shuffled() // Remember, marking it as state allows us to mutate the data
+                                    "Poland", "Spain", "UK", "Ukraine", "US"].shuffled() // Remember, marking it as state allows us to mutate the data and it gets shuffled each time the view recreates itself
     @State private var correctAnswer = Int.random(in: 0...2)
     
     @State private var showingScore = false
@@ -41,10 +41,10 @@ struct ContentView: View {
                             .font(.largeTitle.weight(.semibold))
                     }
                     
-                    ForEach(0..<3) { number in
+                    ForEach(0..<3) { number in // We define our range, 0-3 (exclusive)
                         Button {
                             flagTapped(number)
-                        } label: {
+                        } label: { // we generate the images based on the order of the countries (Remember, they're shuffled)
                             Image(countries[number])
                                 .clipShape(.capsule)
                                 .shadow(radius: 5)
